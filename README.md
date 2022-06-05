@@ -547,11 +547,22 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
         |-- AI
         |-- Audio
         |-- Art
-        |   |-- Industrial
-        |   |-- Nature
+        |   |-- Alien
         |   |-- City
+        |   |   |-- Stores
         |   |-- Home
+        |   |   |-- Extras
+        |   |   |-- Furniture
+        |   |-- Industrial
+        |   |   |-- Ambient
+        |   |   |-- Electrical
+        |   |   |-- Hydro
+        |   |   |-- Props
+        |   |-- Military
+        |   |-- Nature
+        |   |   |-- Aquatics
         |   |-- Other
+        |   |-- Undergrounds
         |-- Characters
         |   |-- Bob
         |   |-- Common
@@ -586,6 +597,10 @@ There are multiple ways to lay out the content of a UE4 project. In this style, 
         |   |-- UI
         |   |   |-- Materials
         |   |   |-- Fonts
+        |-- Vehicles
+        |   |   |-- Land
+        |   |   |-- Air
+        |   |   |-- Water
         |-- Weapons
             |-- Common
             |-- Pistols
